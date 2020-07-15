@@ -1,0 +1,35 @@
+#headers {
+	background-color: #B22222;
+	color: white;
+	margin-top: 0px;
+	padding: 25px;
+}
+
+#headers2 {
+	background-color: #B22222;
+	color: white;
+	margin-top: 0px;
+	padding: 5px;
+}
+
+#button {
+	background-color: #6A0F0F;
+	border: none;
+	border-radius: 5px;
+	color: white;
+	padding: 7px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 16px;
+	margin: 4px 2px;
+}
+
+#box {
+	border-radius: 5px;
+	border: 10px solid #6A0F0F;
+    margin: 20px 10px 0px;
+    padding:20px 20px 20px;
+    position: relative;
+    display: inline-block;
+}
